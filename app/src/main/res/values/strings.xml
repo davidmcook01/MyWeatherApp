@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Weather App</string>
+    <string name="fetch_weather_txt">Weather Report</string>
+    <string name="city_name_txt">Enter city name or zipcode</string>
+</resources>
